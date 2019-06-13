@@ -34,13 +34,14 @@
     "siteFonts": [],
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "",
-    "siteUrl": "",
+    "siteUrl": "https://cruz-creative.github.io/theultimate50/",
     "sitemapSwitcherAuto": "on",
     "favicon": "",
     "noImageResize": "",
     "google-analytics": "",
     "uniqCompNum": 28,
-    "versionPublish": "4.10.3"
+    "versionPublish": "4.10.3",
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
