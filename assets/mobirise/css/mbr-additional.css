@@ -1636,11 +1636,6 @@ body {
 .cid-rtgfx7nBzH .collapsed .navbar-collapse.show .navbar-buttons:last-child {
   margin-bottom: 1rem;
 }
-@media (min-width: 992px) {
-  .cid-rtgfx7nBzH .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 4.7rem);
-  }
-}
 .cid-rtgfx7nBzH .collapsed button.navbar-toggler {
   display: block;
 }
